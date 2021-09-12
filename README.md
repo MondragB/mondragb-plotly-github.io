@@ -1,6 +1,6 @@
 # Plot.ly Homework - Belly Button Biodiversity
 
-[Website Link](https://mondragb.github.io/mondragb-web.github.io/)
+[Website Link](https://mondragb.github.io/mondragb-plotly-github.io/)
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
