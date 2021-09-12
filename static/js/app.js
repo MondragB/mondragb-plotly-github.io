@@ -1,4 +1,4 @@
-samples = '/Challenges/plotly-challenge/StarterCode/samples.json'
+samples = '/data/samples.json'
 
 d3.json(samples).then(data => {
 
